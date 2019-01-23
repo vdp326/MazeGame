@@ -1,0 +1,9 @@
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\bin\Debug\mazeGame.exe.config
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\bin\Debug\mazeGame.exe
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\bin\Debug\mazeGame.pdb
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\obj\Debug\mazeGame.csprojResolveAssemblyReference.cache
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\obj\Debug\mazeGame.Form1.resources
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\obj\Debug\mazeGame.Properties.Resources.resources
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\obj\Debug\mazeGame.csproj.GenerateResource.Cache
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\obj\Debug\mazeGame.exe
+C:\Users\vupha\Desktop\C# Projects\mazeGame\mazeGame\obj\Debug\mazeGame.pdb
